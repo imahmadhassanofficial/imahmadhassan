@@ -38,6 +38,198 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 67342 F";
+  src: url('../fonts/GT-Walsheim-Regular-Oblique-Trial-BF651b7fc67342f.otf') format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 714941";
+  src: url('../fonts/GT-Walsheim-Light-Trial-BF651b7fc714941.otf') format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 5608 E 6";
+  src: url('../fonts/GT-Walsheim-Black-Oblique-Trial-BF651b7fc5608e6.otf') format("opentype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 728 C 4 C";
+  src: url('../fonts/GT-Walsheim-Thin-Trial-BF651b7fc728c4c.otf') format("opentype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Ultra Trial Bf 651 B 7 Fc 60 Ad 12";
+  src: url('../fonts/GT-Walsheim-Ultra-Bold-Oblique-Trial-BF651b7fc60ad12.otf') format("opentype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 66311 A";
+  src: url('../fonts/GT-Walsheim-Thin-Oblique-Trial-BF651b7fc66311a.otf') format("opentype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 5 F 06 A 0";
+  src: url('../fonts/GT-Walsheim-Bold-Oblique-Trial-BF651b7fc5f06a0.otf') format("opentype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Ultra Trial Bf 651 B 7 Fc 635 C 6 E";
+  src: url('../fonts/GT-Walsheim-Ultra-Light-Oblique-Trial-BF651b7fc635c6e.otf') format("opentype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 6 B 04 A 3";
+  src: url('../fonts/GT-Walsheim-Light-Oblique-Trial-BF651b7fc6b04a3.otf') format("opentype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Ultra Trial Bf 651 B 7 Fc 6 C 21 E 5";
+  src: url('../fonts/GT-Walsheim-Ultra-Bold-Trial-BF651b7fc6c21e5.otf') format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 737 C 57";
+  src: url('../fonts/GT-Walsheim-Bold-Trial-BF651b7fc737c57.otf') format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Ultra Trial Bf 651 B 7 Fc 72 B 236";
+  src: url('../fonts/GT-Walsheim-Ultra-Light-Trial-BF651b7fc72b236.otf') format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 728 Fb 3";
+  src: url('../fonts/GT-Walsheim-Medium-Trial-BF651b7fc728fb3.otf') format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 71 A 47 D";
+  src: url('../fonts/GT-Walsheim-Regular-Trial-BF651b7fc71a47d.otf') format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 69 Eff 5";
+  src: url('../fonts/GT-Walsheim-Medium-Oblique-Trial-BF651b7fc69eff5.otf') format("opentype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 736 A 5 B";
+  src: url('../fonts/GT-Walsheim-Black-Trial-BF651b7fc736a5b.otf') format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Graphik Trial;
+  src: url('../fonts/Graphik-Semibold-Trial.otf') format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Graphik Trial;
+  src: url('../fonts/Graphik-Thin-Trial.otf') format("opentype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Graphik Trial;
+  src: url('../fonts/Graphik-Bold-Trial.otf') format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Graphik Trial;
+  src: url('../fonts/Graphik-Regular-Trial.otf') format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Graphik Trial;
+  src: url('../fonts/Graphik-Medium-Trial.otf') format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Graphik Trial;
+  src: url('../fonts/Graphik-Black-Trial.otf') format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Graphik Trial;
+  src: url('../fonts/Graphik-Light-Trial.otf') format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Graphik Trial;
+  src: url('../fonts/Graphik-Extralight-Trial.otf') format("opentype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --background: #dae4df;
   --text: #175a5d;
@@ -84,7 +276,7 @@
 .body {
   background-color: var(--background);
   color: var(--text);
-  font-family: Laygrotesk Trial, Arial, sans-serif;
+  font-family: Graphik Trial, Arial, sans-serif;
   font-size: 1vw;
   font-weight: 400;
   line-height: 1;
@@ -97,7 +289,7 @@
   grid-template-columns: auto auto 1fr;
   grid-auto-columns: 1fr;
   justify-items: stretch;
-  width: 95%;
+  width: 97%;
   margin-left: auto;
   margin-right: auto;
   display: grid;
@@ -106,8 +298,8 @@
 .nav_intro {
   justify-content: space-between;
   align-items: center;
-  padding-top: 2.083vw;
-  padding-bottom: 2.083vw;
+  padding-top: 1.5vw;
+  padding-bottom: 1.5vw;
   display: flex;
 }
 
@@ -121,12 +313,23 @@
 
 ._22_para {
   margin-bottom: 0;
-  font-size: 1.146vw;
+  font-size: 1.2vw;
+  font-weight: 400;
   line-height: 1.563vw;
 }
 
-._22_para._600, .bold {
+._22_para._600 {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 737 C 57", Georgia, sans-serif;
   font-weight: 700;
+}
+
+._22_para.white {
+  color: var(--background);
+  font-weight: 400;
+}
+
+.bold {
+  font-weight: 600;
 }
 
 .btn1 {
@@ -154,9 +357,26 @@
   height: 6.875vw;
 }
 
+.btn1.white {
+  border-color: var(--background);
+  color: var(--background);
+  width: 12vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+}
+
+.btn1.white:hover {
+  color: var(--text);
+}
+
 .secondary-btn-text1 {
   z-index: 20;
+  font-weight: 500;
   position: relative;
+}
+
+.secondary-btn-text1._400 {
+  font-weight: 400;
 }
 
 .button-hover-circle1 {
@@ -171,6 +391,10 @@
 
 .button-hover-circle1._2 {
   background-color: var(--text);
+}
+
+.button-hover-circle1._3 {
+  background-color: var(--background);
 }
 
 .div-block {
@@ -200,30 +424,41 @@
 ._24_para {
   text-transform: uppercase;
   margin-bottom: 0;
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 728 Fb 3", Georgia, sans-serif;
   font-size: 1.25vw;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.563vw;
 }
 
 ._24_para.bold {
+  font-family: "Gt Walsheim Ultra Trial Bf 651 B 7 Fc 60 Ad 12", Georgia, sans-serif;
   font-weight: 700;
+}
+
+._24_para.small_case {
+  color: var(--text);
+  text-transform: none;
+  font-weight: 500;
+  text-decoration: none;
 }
 
 .carousel-horizontal {
   border-top: .052vw solid var(--text);
   border-bottom: .052vw solid var(--text);
-  padding-top: 1.25vw;
-  padding-bottom: 1.25vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
   overflow: hidden;
 }
 
 .div-block-3 {
   z-index: 1;
   height: 100vh;
+  position: relative;
   overflow: hidden;
 }
 
 .header_hero {
+  z-index: 2;
   height: 100vh;
   position: relative;
 }
@@ -236,12 +471,12 @@
 
 .hero_content {
   z-index: 3;
-  grid-column-gap: .833vw;
-  grid-row-gap: .833vw;
+  grid-column-gap: .5vw;
+  grid-row-gap: .5vw;
   flex-flow: column;
   justify-content: center;
   align-items: flex-start;
-  width: 95%;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
   display: flex;
@@ -252,19 +487,25 @@
 }
 
 .div-block-5 {
+  z-index: 2;
   height: 100%;
   position: relative;
 }
 
 .hero_tag_container {
+  z-index: 1;
   position: absolute;
-  inset: auto 0% 2vw;
+  inset: auto auto 2vw 0%;
 }
 
 .hero {
   z-index: 1;
   position: absolute;
   inset: 0%;
+}
+
+.page_container {
+  position: relative;
 }
 
 .speak_branding {
@@ -274,14 +515,15 @@
   justify-content: space-between;
   align-items: flex-end;
   width: 100%;
-  height: 75vh;
-  padding-top: 3.125vw;
-  padding-bottom: 3.125vw;
+  height: 80vh;
+  padding-top: 2vw;
+  padding-bottom: 2.5vw;
   display: flex;
   position: relative;
 }
 
 ._120_para {
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 728 Fb 3", Georgia, sans-serif;
   font-size: 6.25vw;
   font-weight: 500;
 }
@@ -314,8 +556,8 @@
 
 .creative {
   z-index: 3;
-  grid-column-gap: .833vw;
-  grid-row-gap: .833vw;
+  grid-column-gap: .5vw;
+  grid-row-gap: .5vw;
   flex-flow: column;
   justify-content: center;
   align-items: flex-start;
@@ -359,6 +601,7 @@
   grid-row-gap: 3.125vw;
   flex-flow: column;
   display: flex;
+  position: relative;
 }
 
 .project_title {
@@ -373,9 +616,14 @@
 ._64_heading {
   margin-top: 0;
   margin-bottom: 0;
+  font-family: "Gt Walsheim Trial Bf 651 B 7 Fc 728 Fb 3", Georgia, sans-serif;
   font-size: 3.333vw;
   font-weight: 500;
   line-height: 3.5vw;
+}
+
+._64_heading.white {
+  color: var(--background);
 }
 
 .description_container {
@@ -386,9 +634,13 @@
 .project_main {
   grid-column-gap: 1.042vw;
   grid-row-gap: 1.042vw;
+  background-color: #dae4df;
+  border-radius: .8vw;
   flex-flow: column;
   align-items: stretch;
   display: flex;
+  position: sticky;
+  top: 5vw;
 }
 
 .div-block-7 {
@@ -473,25 +725,34 @@
 }
 
 .page {
+  z-index: 2;
   display: block;
+  position: relative;
 }
 
 .connected_section {
   border-top: 1px solid var(--text);
+  padding-top: 5.208vw;
+  padding-bottom: 5.208vw;
+  position: relative;
 }
 
 .connected_container {
+  z-index: 2;
   grid-column-gap: 3.333vw;
   grid-row-gap: 3.333vw;
+  background-color: var(--text);
+  border-radius: 1.25vw;
   flex-flow: column;
   justify-content: center;
   align-items: center;
-  width: 95%;
+  width: 88%;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 8vw;
-  padding-bottom: 8vw;
+  padding-top: 7.813vw;
+  padding-bottom: 7.813vw;
   display: flex;
+  position: relative;
 }
 
 .get_started {
@@ -510,10 +771,11 @@
 
 .ready_description {
   text-align: center;
-  max-width: 38vw;
+  max-width: 60vw;
 }
 
 ._16_para {
+  color: var(--background);
   margin-bottom: 0;
   font-size: .833vw;
   line-height: 1.563vw;
@@ -537,6 +799,7 @@
 }
 
 .qr_section {
+  display: none;
   position: relative;
 }
 
@@ -587,7 +850,8 @@
   flex-flow: column;
   justify-content: center;
   align-items: center;
-  padding-top: 1vw;
+  padding-top: 2vw;
+  padding-bottom: 2vw;
   display: flex;
   position: relative;
 }
@@ -601,6 +865,45 @@
   width: 98%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.block_text-copy {
+  width: 39vw;
+}
+
+.hero_content-copy {
+  z-index: 3;
+  grid-column-gap: .5vw;
+  grid-row-gap: .5vw;
+  flex-flow: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.btn_container {
+  grid-column-gap: 1.25vw;
+  grid-row-gap: 1.25vw;
+  display: flex;
+}
+
+.smile_icon {
+  width: 1.8vw;
+}
+
+.div-block-9 {
+  z-index: 2;
+  position: absolute;
+  inset: auto 0% 1.6vw;
+}
+
+.div-block-10 {
+  z-index: 1;
+  position: absolute;
+  inset: 0%;
 }
 
 @media screen and (max-width: 767px) {
@@ -659,6 +962,174 @@
   font-family: 'Laygrotesk Trial';
   src: url('../fonts/laygrotesk-trial-semibold.otf') format('opentype');
   font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 67342 F';
+  src: url('../fonts/GT-Walsheim-Regular-Oblique-Trial-BF651b7fc67342f.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 714941';
+  src: url('../fonts/GT-Walsheim-Light-Trial-BF651b7fc714941.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 5608 E 6';
+  src: url('../fonts/GT-Walsheim-Black-Oblique-Trial-BF651b7fc5608e6.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 728 C 4 C';
+  src: url('../fonts/GT-Walsheim-Thin-Trial-BF651b7fc728c4c.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Ultra Trial Bf 651 B 7 Fc 60 Ad 12';
+  src: url('../fonts/GT-Walsheim-Ultra-Bold-Oblique-Trial-BF651b7fc60ad12.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 66311 A';
+  src: url('../fonts/GT-Walsheim-Thin-Oblique-Trial-BF651b7fc66311a.otf') format('opentype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 5 F 06 A 0';
+  src: url('../fonts/GT-Walsheim-Bold-Oblique-Trial-BF651b7fc5f06a0.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Ultra Trial Bf 651 B 7 Fc 635 C 6 E';
+  src: url('../fonts/GT-Walsheim-Ultra-Light-Oblique-Trial-BF651b7fc635c6e.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 6 B 04 A 3';
+  src: url('../fonts/GT-Walsheim-Light-Oblique-Trial-BF651b7fc6b04a3.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Ultra Trial Bf 651 B 7 Fc 6 C 21 E 5';
+  src: url('../fonts/GT-Walsheim-Ultra-Bold-Trial-BF651b7fc6c21e5.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 737 C 57';
+  src: url('../fonts/GT-Walsheim-Bold-Trial-BF651b7fc737c57.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Ultra Trial Bf 651 B 7 Fc 72 B 236';
+  src: url('../fonts/GT-Walsheim-Ultra-Light-Trial-BF651b7fc72b236.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 728 Fb 3';
+  src: url('../fonts/GT-Walsheim-Medium-Trial-BF651b7fc728fb3.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 71 A 47 D';
+  src: url('../fonts/GT-Walsheim-Regular-Trial-BF651b7fc71a47d.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 69 Eff 5';
+  src: url('../fonts/GT-Walsheim-Medium-Oblique-Trial-BF651b7fc69eff5.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Walsheim Trial Bf 651 B 7 Fc 736 A 5 B';
+  src: url('../fonts/GT-Walsheim-Black-Trial-BF651b7fc736a5b.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Graphik Trial';
+  src: url('../fonts/Graphik-Semibold-Trial.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Graphik Trial';
+  src: url('../fonts/Graphik-Thin-Trial.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Graphik Trial';
+  src: url('../fonts/Graphik-Bold-Trial.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Graphik Trial';
+  src: url('../fonts/Graphik-Regular-Trial.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Graphik Trial';
+  src: url('../fonts/Graphik-Medium-Trial.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Graphik Trial';
+  src: url('../fonts/Graphik-Black-Trial.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Graphik Trial';
+  src: url('../fonts/Graphik-Light-Trial.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Graphik Trial';
+  src: url('../fonts/Graphik-Extralight-Trial.otf') format('opentype');
+  font-weight: 200;
   font-style: normal;
   font-display: swap;
 }
